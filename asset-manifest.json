@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vertical_platformer/static/css/main.f855e6bc.css",
+    "main.js": "/vertical_platformer/static/js/main.90a32945.js",
+    "static/js/453.fafe1172.chunk.js": "/vertical_platformer/static/js/453.fafe1172.chunk.js",
+    "service-worker.js": "/vertical_platformer/service-worker.js",
+    "static/media/logo.svg": "/vertical_platformer/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/vertical_platformer/index.html",
+    "main.f855e6bc.css.map": "/vertical_platformer/static/css/main.f855e6bc.css.map",
+    "main.90a32945.js.map": "/vertical_platformer/static/js/main.90a32945.js.map",
+    "453.fafe1172.chunk.js.map": "/vertical_platformer/static/js/453.fafe1172.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.90a32945.js"
+  ]
+}
